@@ -1,0 +1,2083 @@
+JDFile v11 {
+  Global {
+  }
+  JDLine {
+    summit:417.5,91,417.5,75.5
+    origin:417.5,83.5
+    name:"Line"
+  }
+  JDLine {
+    summit:411,74,424,74
+    origin:417,74
+    name:"Line"
+  }
+  JDLine {
+    summit:411,71.5,424,71.5
+    origin:417.5,71.5
+    name:"Line"
+  }
+  JDEllipse {
+    summit:408,94.5,427.5,113
+    origin:418,104
+    name:"Ellipse"
+  }
+  JDEllipse {
+    summit:442.5,158.5,462,177
+    origin:452.5,168
+    name:"Ellipse"
+  }
+  JDEllipse {
+    summit:469,134,488.5,152.5
+    origin:479,143.5
+    name:"Ellipse"
+  }
+  JDLine {
+    summit:443.6077,121.7679,457.0311,129.5179
+    origin:452,123
+    name:"Line"
+    gradX2:-70.0
+    gradY2:-70.0
+  }
+  JDLine {
+    summit:457.1077,129.7679,470.5311,137.5179
+    origin:465.5,131
+    name:"Line"
+    gradX2:-70.0
+    gradY2:-70.0
+  }
+  JDLine {
+    summit:432.5,132.7058,440.25,146.1292
+    origin:437,139
+    name:"Line"
+    gradX2:-70.0
+    gradY2:-70.0
+  }
+  JDLine {
+    summit:440,146.2058,447.75,159.6292
+    origin:444.5,152.5
+    name:"Line"
+    gradX2:-70.0
+    gradY2:-70.0
+  }
+  JDLine {
+    summit:458.2058,83.5,471.6292,75.75
+    origin:464.5,79
+    name:"Line"
+    gradX2:-70.0
+  }
+  JDEllipse {
+    summit:470.5,61.5,489,81
+    origin:480,71
+    fillStyle:1
+    name:"elin/gun/hv/State"
+    gradY2:-70.0
+    angle_start:90
+  }
+  JDLine {
+    summit:444.7058,91.5,458.1292,83.75
+    origin:451,87
+    name:"Line"
+    gradX2:-70.0
+  }
+  JDLine {
+    summit:451,210.5,457,210.5
+    origin:454.5,210.5
+    name:"Line"
+  }
+  JDLine {
+    summit:450.5,195.5,457,210.5
+    origin:454,203
+    name:"Line"
+  }
+  JDLine {
+    summit:450.6716,210.7782,456.682,195.5754
+    origin:453.5,203
+    name:"Line"
+    gradY2:-70.0
+  }
+  JDLine {
+    summit:450.5,194,456.5,194
+    origin:454,194
+    name:"Line"
+  }
+  JDLine {
+    summit:415,40.5,421,40.5
+    origin:418.5,40.5
+    name:"Line"
+  }
+  JDLine {
+    summit:414.5,25.5,421,40.5
+    origin:418,33
+    name:"Line"
+  }
+  JDLine {
+    summit:414.6716,40.7782,420.682,25.5754
+    origin:417.5,33
+    name:"Line"
+    gradY2:-70.0
+  }
+  JDLine {
+    summit:414.5,24,420.5,24
+    origin:418,24
+    name:"Line"
+  }
+  JDLine {
+    summit:417.5,73,417.5,57.5
+    origin:417.5,65.5
+    name:"Line"
+  }
+  JDLine {
+    summit:417.5,56,417.5,40.5
+    origin:417.5,48.5
+    name:"Line"
+  }
+  JDLine {
+    summit:417.5,151,417.5,135.5
+    origin:417.5,143.5
+    name:"Line"
+  }
+  JDRectangle {
+    summit:471,199,487,205
+    origin:479,202
+    name:"Rectangle"
+    gradY2:-70.0
+  }
+  JDLine {
+    summit:472,200,486,204
+    origin:480,203
+    name:"Line"
+  }
+  JDLine {
+    summit:453.5,193,453.5,177.5
+    origin:453.5,185.5
+    name:"Line"
+  }
+  JDLine {
+    summit:470,202.5,454.5,202.5
+    origin:462.5,202.5
+    name:"Line"
+    gradY2:-70.0
+  }
+  JDEllipse {
+    summit:444,226,463.5,244.5
+    origin:453.5,235
+    name:"Ellipse"
+    gradX2:-70.0
+    gradY2:-70.0
+    angle_start:180
+  }
+  JDLine {
+    summit:453.5,210,453.5,225.5
+    origin:453.5,217.5
+    name:"Line"
+    gradX2:-70.0
+    gradY2:-70.0
+  }
+  JDRectangle {
+    summit:384,29,400,35
+    origin:392,32
+    name:"Rectangle"
+    gradX2:-70.0
+  }
+  JDLine {
+    summit:399,34,385,30
+    origin:391,31
+    name:"Line"
+    gradX2:-70.0
+    gradY2:-70.0
+  }
+  JDLine {
+    summit:401,32.5,416.5,32.5
+    origin:408.5,32.5
+    name:"Line"
+    gradX2:-70.0
+  }
+  JDLine {
+    summit:488,143,519,143
+    origin:488,143
+    name:"Line"
+  }
+  JDLine {
+    summit:462,168,578,168
+    origin:462,168
+    name:"Line"
+  }
+  JDLine {
+    summit:447,106,579,106
+    origin:514,106
+    name:"Line"
+  }
+  JDLine {
+    summit:579,106,579,168
+    origin:579,137
+    name:"Line"
+  }
+  JDLine {
+    summit:519,143,519,107
+    origin:519,125
+    name:"Line"
+  }
+  JDLine {
+    summit:410.5,79.5,410.5,66.5
+    origin:410.5,73
+    name:"Line"
+    gradY2:-70.0
+  }
+  JDLine {
+    summit:394.5538,79.3708,405.8122,72.8708
+    origin:403.5,75.5
+    name:"Line"
+  }
+  JDLine {
+    summit:398.1208,86.549,391.6208,75.2907
+    origin:396.5,77
+    name:"Line"
+    gradY2:-70.0
+  }
+  JDLine {
+    summit:395.8038,81.5359,407.0622,75.0359
+    origin:403,78
+    name:"Line"
+  }
+  JDLine {
+    summit:408.933,92.0083,401.183,78.5849
+    origin:402.5,86.5
+    name:"Line"
+  }
+  JDLine {
+    summit:383.9689,94.4462,390.4689,83.1878
+    origin:393.5,87.5
+    name:"Line"
+  }
+  JDLine {
+    summit:390.6471,98.8792,379.3888,92.3792
+    origin:386.5,89
+    name:"Line"
+    gradY2:-70.0
+  }
+  JDLine {
+    summit:386.134,95.6962,392.634,84.4378
+    origin:393,90
+    name:"Line"
+  }
+  JDLine {
+    summit:402.7404,98.201,389.317,90.451
+    origin:392.5,98.5
+    name:"Line"
+  }
+  JDLine {
+    summit:401,106.5,385.5,106.5
+    origin:393.5,106.5
+    name:"Line"
+    gradY2:-70.0
+  }
+  JDLine {
+    summit:384,113,384,100
+    origin:384,107
+    name:"Line"
+    gradY2:-70.0
+  }
+  JDLine {
+    summit:381.5,113,381.5,100
+    origin:381.5,106.5
+    name:"Line"
+    gradY2:-70.0
+  }
+  JDLine {
+    summit:389.3708,129.4462,382.8708,118.1878
+    origin:385.5,120.5
+    name:"Line"
+    gradY2:-70.0
+  }
+  JDLine {
+    summit:396.549,125.8792,385.2907,132.3792
+    origin:387,127.5
+    name:"Line"
+    gradX2:-70.0
+    gradY2:-70.0
+  }
+  JDLine {
+    summit:391.5359,128.1962,385.0359,116.9378
+    origin:388,121
+    name:"Line"
+    gradY2:-70.0
+  }
+  JDLine {
+    summit:402.0083,115.067,388.5849,122.817
+    origin:396.5,121.5
+    name:"Line"
+    gradY2:-70.0
+  }
+  JDLine {
+    summit:404.4462,140.0311,393.1878,133.5311
+    origin:397.5,130.5
+    name:"Line"
+    gradY2:-70.0
+  }
+  JDLine {
+    summit:408.201,121.2596,400.451,134.683
+    origin:408.5,131.5
+    name:"Line"
+    gradY2:-70.0
+  }
+  JDLine {
+    summit:408.8792,133.3529,402.3792,144.6112
+    origin:399,137.5
+    name:"Line"
+    gradX2:-70.0
+    gradY2:-70.0
+  }
+  JDLine {
+    summit:405.6962,137.866,394.4378,131.366
+    origin:400,131
+    name:"Line"
+    gradY2:-70.0
+  }
+  JDLine {
+    summit:389.5,113.5,376.5,113.5
+    origin:383,113.5
+    name:"Line"
+    gradX2:-70.0
+    gradY2:-70.0
+  }
+  JDLine {
+    summit:417.5,122,417.5,137.5
+    origin:417.5,129.5
+    name:"Line"
+    gradX2:-70.0
+    gradY2:-70.0
+  }
+  JDLine {
+    summit:424,139,411,139
+    origin:418,139
+    name:"Line"
+    gradX2:-70.0
+    gradY2:-70.0
+  }
+  JDLine {
+    summit:424,141.5,411,141.5
+    origin:417.5,141.5
+    name:"Line"
+    gradX2:-70.0
+    gradY2:-70.0
+  }
+  JDLine {
+    summit:440.4462,133.6292,429.1878,140.1292
+    origin:431.5,137.5
+    name:"Line"
+    gradX2:-70.0
+    gradY2:-70.0
+  }
+  JDLine {
+    summit:436.8792,126.451,443.3792,137.7093
+    origin:438.5,136
+    name:"Line"
+    gradX2:-70.0
+    gradY2:70.0
+  }
+  JDLine {
+    summit:439.1962,131.4641,427.9378,137.9641
+    origin:432,135
+    name:"Line"
+    gradX2:-70.0
+    gradY2:-70.0
+  }
+  JDLine {
+    summit:426.067,120.9917,433.817,134.4151
+    origin:432.5,126.5
+    name:"Line"
+    gradX2:-70.0
+    gradY2:-70.0
+  }
+  JDLine {
+    summit:450.0311,120.5538,443.5311,131.8122
+    origin:440.5,127.5
+    name:"Line"
+    gradX2:-70.0
+    gradY2:-70.0
+  }
+  JDLine {
+    summit:443.3529,116.1208,454.6112,122.6208
+    origin:447.5,126
+    name:"Line"
+    gradX2:-70.0
+    gradY2:70.0
+  }
+  JDLine {
+    summit:447.866,118.3038,441.366,129.5622
+    origin:441,124
+    name:"Line"
+    gradX2:-70.0
+    gradY2:-70.0
+  }
+  JDLine {
+    summit:432.2596,114.799,445.683,122.549
+    origin:442.5,114.5
+    name:"Line"
+    gradX2:-70.0
+    gradY2:-70.0
+  }
+  JDLine {
+    summit:434,106.5,449.5,106.5
+    origin:441.5,106.5
+    name:"Line"
+    gradX2:-70.0
+  }
+  JDLine {
+    summit:450,102,450,115
+    origin:450,108
+    name:"Line"
+    gradX2:-70.0
+  }
+  JDLine {
+    summit:452.5,102,452.5,115
+    origin:452.5,108.5
+    name:"Line"
+    gradX2:-70.0
+  }
+  JDLine {
+    summit:445.6292,83.5538,452.1292,94.8122
+    origin:449.5,92.5
+    name:"Line"
+    gradX2:-70.0
+  }
+  JDLine {
+    summit:438.451,87.1208,449.7093,80.6208
+    origin:448,85.5
+    name:"Line"
+    gradX2:70.0
+  }
+  JDLine {
+    summit:443.4641,84.8038,449.9641,96.0622
+    origin:447,92
+    name:"Line"
+    gradX2:-70.0
+  }
+  JDLine {
+    summit:432.9917,97.933,446.4151,90.183
+    origin:438.5,91.5
+    name:"Line"
+    gradX2:-70.0
+  }
+  JDLine {
+    summit:426.799,91.7404,434.549,78.317
+    origin:426.5,81.5
+    name:"Line"
+    gradX2:-70.0
+  }
+  JDLine {
+    summit:444.5,101.5,457.5,101.5
+    origin:451,101.5
+    name:"Line"
+    gradX2:70.0
+  }
+  JDLine {
+    summit:424.5,133.5,424.5,146.5
+    origin:424.5,140
+    name:"Line"
+    gradX2:-70.0
+    gradY2:70.0
+  }
+  JDLine {
+    summit:426.1208,79.6471,432.6208,68.3888
+    origin:436,75.5
+    name:"Line"
+    gradX2:70.0
+  }
+  JDLine {
+    summit:429.3038,75.134,440.5622,81.634
+    origin:435,82
+    name:"Line"
+    gradX2:-70.0
+  }
+  JDLine {
+    summit:430.5538,72.9689,441.8122,79.4689
+    origin:437.5,82.5
+    name:"Line"
+    gradX2:-70.0
+  }
+  JDRectangle {
+    summit:413,188,422,211
+    origin:418,200
+    name:"Rectangle"
+  }
+  JDLine {
+    summit:417,151,417,187
+    origin:417,169
+    name:"Line"
+  }
+  JDEllipse {
+    summit:378,192,397.5,210.5
+    origin:387.5,201
+    name:"Ellipse"
+    gradX2:-70.0
+    gradY2:-70.0
+    angle_start:180
+  }
+  JDLine {
+    summit:413,200.5,397.5,200.5
+    origin:405.5,200.5
+    name:"Line"
+    gradY2:-70.0
+  }
+  JDLine {
+    summit:391.3701,209.4447,395.5774,198.8028
+    origin:393.35,204
+    name:"Line"
+    gradY2:-70.0
+  }
+  JDLine {
+    summit:385.4046,209.7096,380.8546,199.2096
+    origin:382.35,205
+    name:"Line"
+    gradY2:-70.0
+  }
+  JDLine {
+    summit:384,196,384,203
+    origin:384,200
+    name:"Line"
+  }
+  JDLine {
+    summit:391,196,391,203
+    origin:391,200
+    name:"Line"
+  }
+  JDSpline {
+    summit:384,203,384,207,391,207,391,203
+    origin:391,209
+    name:"Spline"
+    step:10
+  }
+  JDLine {
+    summit:417,211,417,247
+    origin:417,229
+    name:"Line"
+  }
+  JDEllipse {
+    summit:407,248,426.5,266.5
+    origin:416.5,257
+    name:"Ellipse"
+    gradX2:-70.0
+    gradY2:-70.0
+    angle_start:180
+  }
+  JDLine {
+    summit:420.3701,265.4447,424.5774,254.8028
+    origin:422.35,260
+    name:"Line"
+    gradY2:-70.0
+  }
+  JDLine {
+    summit:414.4046,265.7096,409.8546,255.2096
+    origin:411.35,261
+    name:"Line"
+    gradY2:-70.0
+  }
+  JDRectangle {
+    summit:384,306,400,312
+    origin:392,309
+    name:"Rectangle"
+    gradX2:-70.0
+    gradY2:70.0
+  }
+  JDLine {
+    summit:399,311,385,307
+    origin:391,308
+    name:"Line"
+    gradX2:-70.0
+    gradY2:-70.0
+  }
+  JDLine {
+    summit:401,308.5,416.5,308.5
+    origin:408.5,308.5
+    name:"Line"
+    gradX2:-70.0
+    gradY2:70.0
+  }
+  JDLine {
+    summit:417,299,417,267
+    origin:417.5,280.5
+    name:"Line"
+    gradX2:70.0
+    gradY2:70.0
+  }
+  JDLine {
+    summit:412.8,240.95,421.9,240.95
+    origin:417.35,240.95
+    name:"Line"
+  }
+  JDLine {
+    summit:412.8,242.7,421.9,242.7
+    origin:417,242.7
+    name:"Line"
+  }
+  JDLine {
+    summit:412.345,245.185,412.345,238.815
+    origin:412.345,242
+    name:"Line"
+    gradY2:-70.0
+  }
+  JDEllipse {
+    summit:412,252.5,421.75,261.75
+    origin:416.75,257
+    foreground:255,0,0
+    name:"Ellipse"
+    gradX2:-70.0
+    gradY2:-70.0
+    angle_start:180
+  }
+  JDEllipse {
+    summit:414,255.3,419.85,260.85
+    origin:416.85,258
+    foreground:255,0,0
+    name:"Ellipse"
+    gradX2:-70.0
+    gradY2:-70.0
+    angle_start:180
+  }
+  JDLine {
+    summit:413.5,270.95,422.6,270.95
+    origin:418.05,270.95
+    name:"Line"
+  }
+  JDLine {
+    summit:413.5,273.7,422.6,273.7
+    origin:417.7,273.7
+    name:"Line"
+  }
+  JDLine {
+    summit:413.5,269.2,411.4,271.3
+    origin:412.8,270.6
+    name:"Line"
+  }
+  JDLine {
+    summit:411.4,272,413.5,274.1
+    origin:412.1,273.4
+    name:"Line"
+  }
+  JDLine {
+    summit:402.05,253.5,402.05,262.6
+    origin:402.05,258.05
+    name:"Line"
+    gradX2:-70.0
+  }
+  JDLine {
+    summit:400.3,251.4,398.2,253.5
+    origin:398.9,252.1
+    name:"Line"
+    gradX2:-70.0
+  }
+  JDLine {
+    summit:403.1,253.5,401,251.4
+    origin:401.7,252.8
+    name:"Line"
+    gradX2:-70.0
+  }
+  JDLine {
+    summit:399.6,253.5,399.6,262.6
+    origin:399.6,257.7
+    name:"Line"
+    gradX2:-70.0
+  }
+  JDLine {
+    summit:406,257,402,257
+    origin:404,257
+    name:"Line"
+  }
+  JDLine {
+    summit:413.5,295.7,422.6,295.7
+    origin:417.7,295.7
+    name:"Line"
+  }
+  JDLine {
+    summit:413.5,292.95,422.6,292.95
+    origin:418.05,292.95
+    name:"Line"
+  }
+  JDLine {
+    summit:411.4,294,413.5,296.1
+    origin:412.1,295.4
+    name:"Line"
+  }
+  JDLine {
+    summit:413.5,291.2,411.4,293.3
+    origin:412.8,292.6
+    name:"Line"
+  }
+  JDLine {
+    summit:416,282.5,368,282
+    origin:408.5,282.5
+    name:"Line"
+    gradY2:-70.0
+  }
+  JDLine {
+    summit:387.05,278.5,387.05,287.6
+    origin:387.05,283.05
+    name:"Line"
+    gradX2:-70.0
+  }
+  JDLine {
+    summit:384.6,278.5,384.6,287.6
+    origin:384.6,282.7
+    name:"Line"
+    gradX2:-70.0
+  }
+  JDLine {
+    summit:385.3,276.4,383.2,278.5
+    origin:383.9,277.1
+    name:"Line"
+    gradX2:-70.0
+  }
+  JDLine {
+    summit:388.1,278.5,386,276.4
+    origin:386.7,277.8
+    name:"Line"
+    gradX2:-70.0
+  }
+  JDPolyline {
+    summit:367,277,367,286,359,282,367,277
+    origin:363,282
+    foreground:255,0,0
+    background:255,0,0
+    fillStyle:1
+    name:"Polyline"
+  }
+  JDPolyline {
+    summit:353,273,362,273,358,281,353,273
+    origin:358,277
+    foreground:255,0,0
+    background:255,0,0
+    fillStyle:1
+    name:"Polyline"
+    gradY2:-70.0
+  }
+  JDEllipse {
+    summit:352,238.5,361.75,247.75
+    origin:356.75,243
+    name:"Ellipse"
+    gradX2:-70.0
+    gradY2:-70.0
+    angle_start:180
+  }
+  JDLine {
+    summit:357,272,357,249
+    origin:358,261
+    name:"Line"
+  }
+  JDLine {
+    summit:366.7,250.6,368.8,248.5
+    origin:368.1,249.9
+    name:"Line"
+    gradY2:-70.0
+  }
+  JDLine {
+    summit:364.9,248.5,366,250
+    origin:366.3,249.2
+    name:"Line"
+    gradY2:-70.0
+  }
+  JDLine {
+    summit:366,238,366,250
+    origin:366,246
+    name:"Line"
+  }
+  JDPolyline {
+    summit:337.4645,306.7782,348.7782,295.4645,344.5355,291.2218,333.2218,302.5355
+    origin:341,299
+    name:"Polyline"
+  }
+  JDLine {
+    summit:347.6967,293.0104,358.6569,282.0503
+    origin:352.5,287.5
+    name:"Line"
+    gradX2:-70.0
+    gradY2:70.0
+  }
+  JDLine {
+    summit:334,303,348,295
+    origin:341,299
+    name:"Line"
+  }
+  JDEllipse {
+    summit:418,283,416,281
+    origin:419,284
+    name:"Ellipse"
+  }
+  JDLine {
+    summit:417,356,417,315
+    origin:417.5,330.5
+    name:"Line"
+    gradX2:70.0
+    gradY2:70.0
+  }
+  JDEllipse {
+    summit:418,333,416,331
+    origin:419,334
+    name:"Ellipse"
+  }
+  JDLine {
+    summit:413.5,324.7,422.6,324.7
+    origin:417.7,324.7
+    name:"Line"
+  }
+  JDLine {
+    summit:413.5,321.95,422.6,321.95
+    origin:418.05,321.95
+    name:"Line"
+  }
+  JDLine {
+    summit:413.5,320.2,411.4,322.3
+    origin:412.8,321.6
+    name:"Line"
+  }
+  JDLine {
+    summit:411.4,323,413.5,325.1
+    origin:412.1,324.4
+    name:"Line"
+  }
+  JDLine {
+    summit:411.4,343,413.5,345.1
+    origin:412.1,344.4
+    name:"Line"
+  }
+  JDLine {
+    summit:413.5,340.2,411.4,342.3
+    origin:412.8,341.6
+    name:"Line"
+  }
+  JDLine {
+    summit:413.5,341.95,422.6,341.95
+    origin:418.05,341.95
+    name:"Line"
+  }
+  JDLine {
+    summit:413.5,344.7,422.6,344.7
+    origin:417.7,344.7
+    name:"Line"
+  }
+  JDLine {
+    summit:438.05,328.5,438.05,337.6
+    origin:438.05,333.05
+    name:"Line"
+    gradX2:-70.0
+  }
+  JDLine {
+    summit:435.6,328.5,435.6,337.6
+    origin:435.6,332.7
+    name:"Line"
+    gradX2:-70.0
+  }
+  JDLine {
+    summit:436.3,326.4,434.2,328.5
+    origin:434.9,327.1
+    name:"Line"
+    gradX2:-70.0
+  }
+  JDLine {
+    summit:439.1,328.5,437,326.4
+    origin:437.7,327.8
+    name:"Line"
+    gradX2:-70.0
+  }
+  JDLine {
+    summit:467,332.5,419,332
+    origin:459.5,332.5
+    name:"Line"
+    gradY2:-70.0
+  }
+  JDEllipse {
+    summit:457,287,476.5,305.5
+    origin:466.5,296
+    fillStyle:1
+    name:"elin/gun/hv/State"
+    gradX2:-70.0
+    gradY2:-70.0
+    angle_start:180
+  }
+  JDLine {
+    summit:467,305,467,332
+    origin:467,330
+    name:"Line"
+  }
+  JDLine {
+    summit:412.5,357.7,421.6,357.7
+    origin:416.7,357.7
+    name:"Line"
+  }
+  JDLine {
+    summit:412.5,360.7,421.6,360.7
+    origin:416.7,360.7
+    name:"Line"
+  }
+  JDLine {
+    summit:412.5,363.7,421.6,363.7
+    origin:416.7,363.7
+    name:"Line"
+  }
+  JDLine {
+    summit:412.5,366.7,421.6,366.7
+    origin:416.7,366.7
+    name:"Line"
+  }
+  JDLine {
+    summit:412.5,369.7,421.6,369.7
+    origin:416.7,369.7
+    name:"Line"
+  }
+  JDLine {
+    summit:412.4,403,414.5,405.1
+    origin:413.1,404.4
+    name:"Line"
+  }
+  JDLine {
+    summit:414.5,400.2,412.4,402.3
+    origin:413.8,401.6
+    name:"Line"
+  }
+  JDLine {
+    summit:414.5,401.95,423.6,401.95
+    origin:419.05,401.95
+    name:"Line"
+  }
+  JDLine {
+    summit:414.5,404.7,423.6,404.7
+    origin:418.7,404.7
+    name:"Line"
+  }
+  JDEllipse {
+    summit:408,378,427.5,396.5
+    origin:417.5,387
+    name:"Ellipse"
+    gradX2:-70.0
+    gradY2:-70.0
+    angle_start:180
+  }
+  JDLine {
+    summit:421.3701,395.4447,425.5774,384.8028
+    origin:423.35,390
+    name:"Line"
+    gradY2:-70.0
+  }
+  JDLine {
+    summit:415.4046,395.7096,410.8546,385.2096
+    origin:412.35,391
+    name:"Line"
+    gradY2:-70.0
+  }
+  JDLine {
+    summit:417,378,417,369
+    origin:417.5,367.5
+    name:"Line"
+    gradX2:70.0
+    gradY2:70.0
+  }
+  JDLine {
+    summit:417,409,417,396
+    origin:417.5,394.5
+    name:"Line"
+    gradX2:70.0
+    gradY2:70.0
+  }
+  JDEllipse {
+    summit:415,410.3,420.85,415.85
+    origin:417.85,413
+    name:"Ellipse"
+    gradX2:-70.0
+    gradY2:-70.0
+    angle_start:180
+  }
+  JDLine {
+    summit:417,429,417,416
+    origin:417.5,414.5
+    name:"Line"
+    gradX2:70.0
+    gradY2:70.0
+  }
+  JDLine {
+    summit:421,393,414,393
+    origin:418,393
+    name:"Line"
+  }
+  JDLine {
+    summit:417,61,417,61
+    origin:417,61
+    name:"Line"
+  }
+  JDLine {
+    summit:389,90,355.317,71.451
+    origin:358.5,79.5
+    name:"Line"
+  }
+  JDLine {
+    summit:363.3529,68.1208,374.6112,74.6208
+    origin:367.5,78
+    name:"Line"
+    gradX2:-70.0
+    gradY2:70.0
+  }
+  JDLine {
+    summit:367.866,70.3038,361.366,81.5622
+    origin:361,76
+    name:"Line"
+    gradX2:-70.0
+    gradY2:-70.0
+  }
+  JDLine {
+    summit:370.0311,72.5538,363.5311,83.8122
+    origin:360.5,79.5
+    name:"Line"
+    gradX2:-70.0
+    gradY2:-70.0
+  }
+  JDPolyline {
+    summit:357.4186,66.1699,317.5814,43.1699,312.5814,51.8301,352.4186,74.8301
+    origin:335,59
+    name:"Polyline"
+    gradY2:-70.0
+  }
+  JDPolyline {
+    summit:346.5885,63.2679,317,45,313.7776,50.0981,344.0885,67.5981
+    origin:330,56
+    name:"Polyline"
+    gradY2:-70.0
+  }
+  JDLine {
+    summit:312,54,319,41
+    origin:315,49
+    name:"Line"
+  }
+  JDLine {
+    summit:342,67,345,62
+    origin:345,62
+    name:"Line"
+  }
+  JDLine {
+    summit:376,83,376,83
+    origin:376,83
+    name:"Line"
+  }
+  JDLine {
+    summit:315.7404,47.201,302.317,39.451
+    origin:305.5,47.5
+    name:"Line"
+  }
+  JDLine {
+    summit:343,66,343,66
+    origin:343,66
+    name:"Line"
+  }
+  JDPolyline {
+    summit:300,42,304,36,295.8349,35.75
+    origin:298,38
+    name:"Polyline"
+  }
+  JDPolyline {
+    summit:294.866,42.9641,295.3301,35.7679,288.134,39.634
+    origin:291,40
+    name:"Polyline"
+  }
+  JDLine {
+    summit:295.8995,35.5124,284.2745,15.3774
+    origin:286.25,27.25
+    name:"Line"
+  }
+  JDLine {
+    summit:290.0083,11.067,276.5849,18.817
+    origin:284.5,17.5
+    name:"Line"
+    gradY2:-70.0
+  }
+  JDPolyline {
+    summit:294.5179,19.3349,297,23,302,18
+    origin:297.5,20.5
+    name:"Polyline"
+  }
+  JDLine {
+    summit:296.0083,21.067,282.5849,28.817
+    origin:290.5,27.5
+    name:"Line"
+    gradY2:-70.0
+  }
+  JDLine {
+    summit:289,22,289,27
+    origin:289,25
+    name:"Line"
+  }
+  JDLine {
+    summit:287,24,292,24
+    origin:290,24
+    name:"Line"
+    gradY2:-70.0
+  }
+  JDLine {
+    summit:284,55,291,42
+    origin:287,50
+    name:"Line"
+  }
+  JDLine {
+    summit:315,85,327,61
+    origin:323,69
+    name:"Line"
+  }
+  JDLine {
+    summit:344,104,359,74
+    origin:355,82
+    name:"Line"
+  }
+  JDLine {
+    summit:328.6962,72.866,317.4378,66.366
+    origin:323,66
+    name:"Line"
+    gradY2:-70.0
+  }
+  JDLine {
+    summit:327.4462,75.0311,316.1878,68.5311
+    origin:320.5,65.5
+    name:"Line"
+    gradY2:-70.0
+  }
+  JDLine {
+    summit:331.8792,68.3529,325.3792,79.6112
+    origin:322,72.5
+    name:"Line"
+    gradX2:-70.0
+    gradY2:-70.0
+  }
+  JDLine {
+    summit:343,104,286,104
+    origin:325,104
+    name:"Line"
+  }
+  JDLine {
+    summit:281.5,125.7,290.6,125.7
+    origin:285.7,125.7
+    name:"Line"
+  }
+  JDLine {
+    summit:281.5,128.7,290.6,128.7
+    origin:285.7,128.7
+    name:"Line"
+  }
+  JDLine {
+    summit:281.5,131.7,290.6,131.7
+    origin:285.7,131.7
+    name:"Line"
+  }
+  JDLine {
+    summit:281.5,134.7,290.6,134.7
+    origin:285.7,134.7
+    name:"Line"
+  }
+  JDLine {
+    summit:281.5,137.7,290.6,137.7
+    origin:285.7,137.7
+    name:"Line"
+  }
+  JDLine {
+    summit:286,124,286,104
+    origin:286.5,117.5
+    name:"Line"
+    gradX2:70.0
+    gradY2:70.0
+  }
+  JDLine {
+    summit:286,146,286,137
+    origin:286.5,135.5
+    name:"Line"
+    gradX2:70.0
+    gradY2:70.0
+  }
+  JDPolyline {
+    summit:282.4641,147.1961,285.6603,153.6603,289.9593,146.7141
+    origin:272,157
+    name:"Polyline"
+    gradY2:-70.0
+  }
+  JDPolyline {
+    summit:278.1961,158.5359,284.6603,155.3397,277.7141,151.0407
+    origin:288,169
+    name:"Polyline"
+    gradX2:-70.0
+    gradY2:-70.0
+  }
+  JDPolyline {
+    summit:230.8039,151.4641,224.3397,154.6603,231.2859,158.9593
+    origin:237,149
+    name:"Polyline"
+    gradX2:-70.0
+  }
+  JDPolyline {
+    summit:219.4641,147.1961,222.6603,153.6603,226.9593,146.7141
+    origin:221,137
+    name:"Polyline"
+  }
+  JDEllipse {
+    summit:245.5,115.5,264,135
+    origin:255,125
+    name:"Ellipse"
+    gradY2:-70.0
+    angle_start:90
+  }
+  JDLine {
+    summit:255,134,255.5,117.5
+    origin:255.5,125.5
+    name:"Line"
+  }
+  JDLine {
+    summit:255.8358,134.8891,258,126
+    origin:257.25,131
+    name:"Line"
+    gradY2:-70.0
+  }
+  JDLine {
+    summit:259,126,264,126
+    origin:263,126.5
+    name:"Line"
+    gradX2:-70.0
+  }
+  JDLine {
+    summit:247,126,251,126
+    origin:243,122.5
+    name:"Line"
+    gradY2:-70.0
+  }
+  JDLine {
+    summit:255.1642,117.1109,252,126
+    origin:253.75,121
+    name:"Line"
+    gradX2:-70.0
+  }
+  JDEllipse {
+    summit:243.5,145,265,166
+    origin:253,156
+    name:"Ellipse"
+    gradY2:-70.0
+    angle_start:90
+  }
+  JDLine {
+    summit:266,155,278,155
+    origin:271,155
+    name:"Line"
+  }
+  JDLine {
+    summit:231,155,244,155
+    origin:238,155
+    name:"Line"
+  }
+  JDLine {
+    summit:218.5,125.7,227.6,125.7
+    origin:222.7,125.7
+    name:"Line"
+  }
+  JDLine {
+    summit:218.5,128.7,227.6,128.7
+    origin:222.7,128.7
+    name:"Line"
+  }
+  JDLine {
+    summit:218.5,131.7,227.6,131.7
+    origin:222.7,131.7
+    name:"Line"
+  }
+  JDLine {
+    summit:218.5,134.7,227.6,134.7
+    origin:222.7,134.7
+    name:"Line"
+  }
+  JDLine {
+    summit:218.5,137.7,227.6,137.7
+    origin:222.7,137.7
+    name:"Line"
+  }
+  JDLine {
+    summit:223,146,223,137
+    origin:223.5,135.5
+    name:"Line"
+    gradX2:70.0
+    gradY2:70.0
+  }
+  JDLine {
+    summit:223,124,223,85
+    origin:223.5,117.5
+    name:"Line"
+    gradX2:70.0
+    gradY2:70.0
+  }
+  JDLine {
+    summit:315,85,224,85
+    origin:270,85
+    name:"Line"
+  }
+  JDLine {
+    summit:255,136,255,145
+    origin:255,141
+    name:"Line"
+  }
+  JDLabel {
+    summit:242,147,267,168
+    origin:255,158
+    lineWidth:0
+    name:"Label"
+    text:"PC"
+  }
+  JDEllipse {
+    summit:245,203,264.5,221.5
+    origin:254.5,212
+    name:"Ellipse"
+    gradX2:-70.0
+    gradY2:-70.0
+    angle_start:180
+  }
+  JDLine {
+    summit:258.3701,220.4447,262.5774,209.8028
+    origin:260.35,215
+    name:"Line"
+    gradY2:-70.0
+  }
+  JDLine {
+    summit:252.4046,220.7096,247.8546,210.2096
+    origin:249.35,216
+    name:"Line"
+    gradY2:-70.0
+  }
+  JDRectangle {
+    summit:222,261,238,267
+    origin:230,264
+    name:"Rectangle"
+    gradX2:-70.0
+    gradY2:70.0
+  }
+  JDLine {
+    summit:237,266,223,262
+    origin:229,263
+    name:"Line"
+    gradX2:-70.0
+    gradY2:-70.0
+  }
+  JDLine {
+    summit:239,263.5,254.5,263.5
+    origin:246.5,263.5
+    name:"Line"
+    gradX2:-70.0
+    gradY2:70.0
+  }
+  JDLine {
+    summit:255,254,255,222
+    origin:255.5,235.5
+    name:"Line"
+    gradX2:70.0
+    gradY2:70.0
+  }
+  JDLine {
+    summit:250.8,195.95,259.9,195.95
+    origin:255.35,195.95
+    name:"Line"
+  }
+  JDLine {
+    summit:250.8,197.7,259.9,197.7
+    origin:255,197.7
+    name:"Line"
+  }
+  JDLine {
+    summit:250.345,200.185,250.345,193.815
+    origin:250.345,197
+    name:"Line"
+    gradY2:-70.0
+  }
+  JDEllipse {
+    summit:250,207.5,259.75,216.75
+    origin:254.75,212
+    foreground:255,0,0
+    name:"Ellipse"
+    gradX2:-70.0
+    gradY2:-70.0
+    angle_start:180
+  }
+  JDEllipse {
+    summit:252,210.3,257.85,215.85
+    origin:254.85,213
+    foreground:255,0,0
+    name:"Ellipse"
+    gradX2:-70.0
+    gradY2:-70.0
+    angle_start:180
+  }
+  JDLine {
+    summit:251.5,225.95,260.6,225.95
+    origin:256.05,225.95
+    name:"Line"
+  }
+  JDLine {
+    summit:251.5,228.7,260.6,228.7
+    origin:255.7,228.7
+    name:"Line"
+  }
+  JDLine {
+    summit:251.5,224.2,249.4,226.3
+    origin:250.8,225.6
+    name:"Line"
+  }
+  JDLine {
+    summit:249.4,227,251.5,229.1
+    origin:250.1,228.4
+    name:"Line"
+  }
+  JDLine {
+    summit:240.05,208.5,240.05,217.6
+    origin:240.05,213.05
+    name:"Line"
+    gradX2:-70.0
+  }
+  JDLine {
+    summit:238.3,206.4,236.2,208.5
+    origin:236.9,207.1
+    name:"Line"
+    gradX2:-70.0
+  }
+  JDLine {
+    summit:241.1,208.5,239,206.4
+    origin:239.7,207.8
+    name:"Line"
+    gradX2:-70.0
+  }
+  JDLine {
+    summit:237.6,208.5,237.6,217.6
+    origin:237.6,212.7
+    name:"Line"
+    gradX2:-70.0
+  }
+  JDLine {
+    summit:244,212,240,212
+    origin:242,212
+    name:"Line"
+  }
+  JDLine {
+    summit:251.5,250.7,260.6,250.7
+    origin:255.7,250.7
+    name:"Line"
+  }
+  JDLine {
+    summit:251.5,247.95,260.6,247.95
+    origin:256.05,247.95
+    name:"Line"
+  }
+  JDLine {
+    summit:249.4,249,251.5,251.1
+    origin:250.1,250.4
+    name:"Line"
+  }
+  JDLine {
+    summit:251.5,246.2,249.4,248.3
+    origin:250.8,247.6
+    name:"Line"
+  }
+  JDLine {
+    summit:254,237.5,206,237
+    origin:246.5,237.5
+    name:"Line"
+    gradY2:-70.0
+  }
+  JDLine {
+    summit:225.05,233.5,225.05,242.6
+    origin:225.05,238.05
+    name:"Line"
+    gradX2:-70.0
+  }
+  JDLine {
+    summit:222.6,233.5,222.6,242.6
+    origin:222.6,237.7
+    name:"Line"
+    gradX2:-70.0
+  }
+  JDLine {
+    summit:223.3,231.4,221.2,233.5
+    origin:221.9,232.1
+    name:"Line"
+    gradX2:-70.0
+  }
+  JDLine {
+    summit:226.1,233.5,224,231.4
+    origin:224.7,232.8
+    name:"Line"
+    gradX2:-70.0
+  }
+  JDPolyline {
+    summit:205,232,205,241,197,237,205,232
+    origin:201,237
+    foreground:255,0,0
+    background:255,0,0
+    fillStyle:1
+    name:"Polyline"
+  }
+  JDPolyline {
+    summit:191,228,200,228,196,236,191,228
+    origin:196,232
+    foreground:255,0,0
+    background:255,0,0
+    fillStyle:1
+    name:"Polyline"
+    gradY2:-70.0
+  }
+  JDEllipse {
+    summit:190,193.5,199.75,202.75
+    origin:194.75,198
+    name:"Ellipse"
+    gradX2:-70.0
+    gradY2:-70.0
+    angle_start:180
+  }
+  JDLine {
+    summit:195,227,195,204
+    origin:196,216
+    name:"Line"
+  }
+  JDLine {
+    summit:204.7,205.6,206.8,203.5
+    origin:206.1,204.9
+    name:"Line"
+    gradY2:-70.0
+  }
+  JDLine {
+    summit:202.9,203.5,204,205
+    origin:204.3,204.2
+    name:"Line"
+    gradY2:-70.0
+  }
+  JDLine {
+    summit:204,193,204,205
+    origin:204,201
+    name:"Line"
+  }
+  JDPolyline {
+    summit:175.4645,261.7782,186.7782,250.4645,182.5355,246.2218,171.2218,257.5355
+    origin:179,254
+    name:"Polyline"
+  }
+  JDLine {
+    summit:185.6967,248.0104,196.6569,237.0503
+    origin:190.5,242.5
+    name:"Line"
+    gradX2:-70.0
+    gradY2:70.0
+  }
+  JDLine {
+    summit:172,258,186,250
+    origin:179,254
+    name:"Line"
+  }
+  JDEllipse {
+    summit:256,238,254,236
+    origin:257,239
+    name:"Ellipse"
+  }
+  JDLine {
+    summit:255,311,255,270
+    origin:255.5,285.5
+    name:"Line"
+    gradX2:70.0
+    gradY2:70.0
+  }
+  JDEllipse {
+    summit:256,288,254,286
+    origin:257,289
+    name:"Ellipse"
+  }
+  JDLine {
+    summit:251.5,279.7,260.6,279.7
+    origin:255.7,279.7
+    name:"Line"
+  }
+  JDLine {
+    summit:251.5,276.95,260.6,276.95
+    origin:256.05,276.95
+    name:"Line"
+  }
+  JDLine {
+    summit:251.5,275.2,249.4,277.3
+    origin:250.8,276.6
+    name:"Line"
+  }
+  JDLine {
+    summit:249.4,278,251.5,280.1
+    origin:250.1,279.4
+    name:"Line"
+  }
+  JDLine {
+    summit:249.4,298,251.5,300.1
+    origin:250.1,299.4
+    name:"Line"
+  }
+  JDLine {
+    summit:251.5,295.2,249.4,297.3
+    origin:250.8,296.6
+    name:"Line"
+  }
+  JDLine {
+    summit:251.5,296.95,260.6,296.95
+    origin:256.05,296.95
+    name:"Line"
+  }
+  JDLine {
+    summit:251.5,299.7,260.6,299.7
+    origin:255.7,299.7
+    name:"Line"
+  }
+  JDLine {
+    summit:276.05,283.5,276.05,292.6
+    origin:276.05,288.05
+    name:"Line"
+    gradX2:-70.0
+  }
+  JDLine {
+    summit:273.6,283.5,273.6,292.6
+    origin:273.6,287.7
+    name:"Line"
+    gradX2:-70.0
+  }
+  JDLine {
+    summit:274.3,281.4,272.2,283.5
+    origin:272.9,282.1
+    name:"Line"
+    gradX2:-70.0
+  }
+  JDLine {
+    summit:277.1,283.5,275,281.4
+    origin:275.7,282.8
+    name:"Line"
+    gradX2:-70.0
+  }
+  JDLine {
+    summit:305,287.5,257,287
+    origin:297.5,287.5
+    name:"Line"
+    gradY2:-70.0
+  }
+  JDEllipse {
+    summit:295,242,314.5,260.5
+    origin:304.5,251
+    name:"Ellipse"
+    gradX2:-70.0
+    gradY2:-70.0
+    angle_start:180
+  }
+  JDLine {
+    summit:305,260,305,287
+    origin:305,285
+    name:"Line"
+  }
+  JDLine {
+    summit:250.5,312.7,259.6,312.7
+    origin:254.7,312.7
+    name:"Line"
+  }
+  JDLine {
+    summit:250.5,315.7,259.6,315.7
+    origin:254.7,315.7
+    name:"Line"
+  }
+  JDLine {
+    summit:250.5,318.7,259.6,318.7
+    origin:254.7,318.7
+    name:"Line"
+  }
+  JDLine {
+    summit:250.5,321.7,259.6,321.7
+    origin:254.7,321.7
+    name:"Line"
+  }
+  JDLine {
+    summit:250.5,324.7,259.6,324.7
+    origin:254.7,324.7
+    name:"Line"
+  }
+  JDLine {
+    summit:250.4,358,252.5,360.1
+    origin:251.1,359.4
+    name:"Line"
+  }
+  JDLine {
+    summit:252.5,355.2,250.4,357.3
+    origin:251.8,356.6
+    name:"Line"
+  }
+  JDLine {
+    summit:252.5,356.95,261.6,356.95
+    origin:257.05,356.95
+    name:"Line"
+  }
+  JDLine {
+    summit:252.5,359.7,261.6,359.7
+    origin:256.7,359.7
+    name:"Line"
+  }
+  JDEllipse {
+    summit:246,333,265.5,351.5
+    origin:255.5,342
+    name:"Ellipse"
+    gradX2:-70.0
+    gradY2:-70.0
+    angle_start:180
+  }
+  JDLine {
+    summit:259.3701,350.4447,263.5774,339.8028
+    origin:261.35,345
+    name:"Line"
+    gradY2:-70.0
+  }
+  JDLine {
+    summit:253.4046,350.7096,248.8546,340.2096
+    origin:250.35,346
+    name:"Line"
+    gradY2:-70.0
+  }
+  JDLine {
+    summit:255,333,255,324
+    origin:255.5,322.5
+    name:"Line"
+    gradX2:70.0
+    gradY2:70.0
+  }
+  JDLine {
+    summit:255,364,255,351
+    origin:255.5,349.5
+    name:"Line"
+    gradX2:70.0
+    gradY2:70.0
+  }
+  JDEllipse {
+    summit:253,365.3,258.85,370.85
+    origin:255.85,368
+    name:"Ellipse"
+    gradX2:-70.0
+    gradY2:-70.0
+    angle_start:180
+  }
+  JDLine {
+    summit:255,384,255,371
+    origin:255.5,369.5
+    name:"Line"
+    gradX2:70.0
+    gradY2:70.0
+  }
+  JDLine {
+    summit:259,348,252,348
+    origin:256,348
+    name:"Line"
+  }
+  JDLine {
+    summit:255,166,255,202
+    origin:255,184
+    name:"Line"
+  }
+  JDPolyline {
+    summit:250.2,255,259,255,250.2,270.2,259,270.2
+    origin:254.2,263
+    foreground:255,0,0
+    background:255,0,0
+    fillStyle:1
+    name:"Polyline"
+  }
+  JDPolyline {
+    summit:412.2,300,421,300,412.2,315.2,421,315.2
+    origin:416.2,308
+    name:"Polyline"
+  }
+  JDLine {
+    summit:299,247.8038,305,258.1962
+    origin:302,253
+    name:"Line"
+  }
+  JDLine {
+    summit:311,247.8038,305,258.1962
+    origin:308,253
+    name:"Line"
+  }
+  JDLine {
+    summit:299,253,311,253
+    origin:305,253
+    name:"Line"
+  }
+  JDLine {
+    summit:461,292.8038,467,303.1962
+    origin:464,298
+    name:"Line"
+  }
+  JDLine {
+    summit:473,292.8038,467,303.1962
+    origin:470,298
+    name:"Line"
+  }
+  JDLine {
+    summit:461,298,473,298
+    origin:467,298
+    name:"Line"
+  }
+  JDLine {
+    summit:224.05,283.5,224.05,292.6
+    origin:224.05,288.05
+    name:"Line"
+    gradX2:-70.0
+  }
+  JDLine {
+    summit:221.6,283.5,221.6,292.6
+    origin:221.6,287.7
+    name:"Line"
+    gradX2:-70.0
+  }
+  JDLine {
+    summit:222.3,281.4,220.2,283.5
+    origin:220.9,282.1
+    name:"Line"
+    gradX2:-70.0
+  }
+  JDLine {
+    summit:225.1,283.5,223,281.4
+    origin:223.7,282.8
+    name:"Line"
+    gradX2:-70.0
+  }
+  JDLine {
+    summit:253,287.5,205,287
+    origin:245.5,287.5
+    name:"Line"
+    gradY2:-70.0
+  }
+  JDPolyline {
+    summit:190,290.8,190,282,205.2,290.8,205.2,282
+    origin:198,286.8
+    name:"Polyline"
+    gradY2:-70.0
+  }
+  JDLine {
+    summit:197,286,197,274
+    origin:197,280
+    name:"Line"
+  }
+  JDLine {
+    summit:192,273,202,273
+    origin:192,273
+    name:"Line"
+  }
+  JDLine {
+    summit:283,55,122,55
+    origin:214,55
+    name:"Line"
+  }
+  JDLine {
+    summit:122,55,122,359
+    origin:122,139
+    name:"Line"
+  }
+  JDLine {
+    summit:189,287.5,123,287
+    origin:181.5,287.5
+    name:"Line"
+    gradY2:-70.0
+  }
+  JDEllipse {
+    summit:191,288,189,286
+    origin:192,289
+    name:"Ellipse"
+  }
+  JDEllipse {
+    summit:290,25,288,23
+    origin:291,26
+    name:"Ellipse"
+  }
+  JDLine {
+    summit:192,285,188,289
+    origin:190,288
+    name:"Line"
+  }
+  JDLine {
+    summit:188,285,192,289
+    origin:191,288
+    name:"Line"
+  }
+  JDSpline {
+    summit:126,365,126,358,118,358,118,365
+    origin:122,358
+    name:"Spline"
+    gradX2:-70.0
+    gradY2:-70.0
+    step:10
+  }
+  JDRectangle {
+    summit:118,365,126,380
+    origin:122,373
+    name:"Rectangle"
+  }
+  JDLine {
+    summit:119,353,125,353
+    origin:122,353
+    name:"Line"
+  }
+  JDRectangle {
+    summit:116,330,128,343
+    origin:122,337
+    name:"Rectangle"
+  }
+  JDEllipse {
+    summit:123,335,121,333
+    origin:124,336
+    name:"Ellipse"
+  }
+  JDLine {
+    summit:124,332,120,336
+    origin:122,335
+    name:"Line"
+  }
+  JDLine {
+    summit:120,332,124,336
+    origin:123,335
+    name:"Line"
+  }
+  JDLine {
+    summit:128,337,139,337
+    origin:135,337
+    name:"Line"
+  }
+  JDLine {
+    summit:139,336,139,323
+    origin:139,336
+    name:"Line"
+  }
+  JDLine {
+    summit:139,323,130,323
+    origin:135,323
+    name:"Line"
+  }
+  JDLine {
+    summit:129.5355,323.4645,122.4645,330.5355
+    origin:126,327
+    name:"Line"
+  }
+  JDPolyline {
+    summit:107.3481,346.8349,103.366,344.9019,101.5359,351.7321
+    origin:104.5,347.5
+    name:"Polyline"
+    gradX2:-70.0
+    gradY2:-70.0
+  }
+  JDLine {
+    summit:110.4142,343.4142,106.8787,339.8787
+    origin:109,341
+    name:"Line"
+    gradX2:-70.0
+    gradY2:-70.0
+  }
+  JDLine {
+    summit:110.4142,339.5858,106.8787,343.1213
+    origin:108,341
+    name:"Line"
+    gradX2:-70.0
+    gradY2:70.0
+  }
+  JDEllipse {
+    summit:109,342,107,340
+    origin:106,339
+    name:"Ellipse"
+    gradX2:-70.0
+    gradY2:-70.0
+    angle_start:180
+  }
+  JDLine {
+    summit:115,341,108,341
+    origin:112,341
+    name:"Line"
+  }
+  JDLine {
+    summit:105.5,346.3301,110.5,337.6699
+    origin:107,338
+    name:"Line"
+  }
+  JDImage {
+    summit:13,10,109,96
+    origin:131,116
+    lineWidth:0
+    name:"Image"
+    file_name:"/home/guest/Downloads/prevac_logo.jpg"
+  }
+  JDLine {
+    summit:480,80,480.5,63.5
+    origin:480.5,71.5
+    name:"Line"
+  }
+  JDLine {
+    summit:480.8358,80.8891,483,72
+    origin:482.25,77
+    name:"Line"
+    gradY2:-70.0
+  }
+  JDLine {
+    summit:484,72,489,72
+    origin:488,72.5
+    name:"Line"
+    gradX2:-70.0
+  }
+  JDLine {
+    summit:472,72,476,72
+    origin:468,68.5
+    name:"Line"
+    gradY2:-70.0
+  }
+  JDLine {
+    summit:480.1642,63.1109,477,72
+    origin:478.75,67
+    name:"Line"
+    gradX2:-70.0
+  }
+  JDSwingObject {
+    summit:500,63,568,78
+    origin:534,71
+    fillStyle:1
+    lineWidth:0
+    name:"elin/gun/hv/HighVoltage"
+    extensions:{
+      unitVisible:"true"
+      userFormat:""
+      alarmEnabled:"true"
+      validBackground:"0,255,0"
+      invalidText:"-----"
+    }
+    className:"fr.esrf.tangoatk.widget.attribute.SimpleScalarViewer"
+    font:"Dialog",0,12
+  }
+  JDSwingObject {
+    summit:489,287,557,302
+    origin:523,295
+    fillStyle:1
+    lineWidth:0
+    name:"elin/gun/hv/HVDac"
+    extensions:{
+      unitVisible:"true"
+      userFormat:""
+      alarmEnabled:"true"
+      validBackground:"0,255,0"
+      invalidText:"-----"
+    }
+    className:"fr.esrf.tangoatk.widget.attribute.SimpleScalarViewer"
+    font:"Dialog",0,12
+  }
+  JDLabel {
+    summit:464,227,512,248
+    origin:488,238
+    lineWidth:0
+    name:"Label"
+    text:"X-Ray"
+  }
+  JDLabel {
+    summit:459,169,495,190
+    origin:477,180
+    lineWidth:0
+    name:"Label"
+    text:"Mon"
+  }
+  JDLabel {
+    summit:486,144,538,165
+    origin:512,155
+    lineWidth:0
+    name:"Label"
+    text:"R4000"
+  }
+}
