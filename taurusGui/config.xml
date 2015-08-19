@@ -13,5 +13,41 @@
       <icon>application-x-executable</icon>
     </ExternalApp>
   </ExternalApps>
-  <MONITOR></MONITOR>
-</taurusgui_config>
+  <MONITOR/>
+<PanelDescriptions><PanelDescription>
+  <name>IonPump</name>
+  <classname>TaurusForm</classname>
+  <modulename/>
+  <widgetname/>
+  <floating>False</floating>
+  <sharedDataWrite/>
+  <sharedDataRead/>
+  <model>tango://tangobox:10000/elin/gun/hv/status tango://tangobox:10000/elin/gun/hv/hvdac tango://tangobox:10000/elin/gun/hv/highvoltage</model>
+</PanelDescription><PanelDescription>
+  <name>IonPumpTrend</name>
+  <classname>TaurusTrend</classname>
+  <modulename/>
+  <widgetname/>
+  <floating>False</floating>
+  <sharedDataWrite/>
+  <sharedDataRead/>
+  <model>tango://tangobox:10000/elin/gun/hv/highvoltage</model>
+</PanelDescription><PanelDescription>
+  <name>Motors</name>
+  <classname>TaurusForm</classname>
+  <modulename/>
+  <widgetname/>
+  <floating>False</floating>
+  <sharedDataWrite/>
+  <sharedDataRead/>
+  <model>tango://tangobox:10000/sim/motor/1/status tango://tangobox:10000/sim/motor/1/position tango://tangobox:10000/sim/motor/2/status tango://tangobox:10000/sim/motor/2/position tango://tangobox:10000/sim/motor/3/status tango://tangobox:10000/sim/motor/3/position tango://tangobox:10000/sim/motor/4/status tango://tangobox:10000/sim/motor/4/position</model>
+</PanelDescription><PanelDescription>
+  <name>PS</name>
+  <classname>TaurusForm</classname>
+  <modulename/>
+  <widgetname/>
+  <floating>False</floating>
+  <sharedDataWrite/>
+  <sharedDataRead/>
+  <model>tango://tangobox:10000/elin/rf/bun-at/status tango://tangobox:10000/elin/rf/bun-at/current tango://tangobox:10000/elin/rf/bun-ph/status tango://tangobox:10000/elin/rf/bun-ph/current</model>
+</PanelDescription></PanelDescriptions></taurusgui_config>

@@ -1,0 +1,17 @@
+<taurusgui_config>
+  <GUI_NAME>RapidSE</GUI_NAME>
+  <ORGANIZATION>Prevac</ORGANIZATION>
+  <CUSTOM_LOGO>prevac_logo.jpg</CUSTOM_LOGO>
+  <SYNOPTIC>
+    <synoptic str="ufo_small_prevac"/>
+  </SYNOPTIC>
+  <ExternalApps>
+    <ExternalApp>
+      <command>logviewer</command>
+      <params/>
+      <text>LogViewer</text>
+      <icon>application-x-executable</icon>
+    </ExternalApp>
+  </ExternalApps>
+  <MONITOR></MONITOR>
+</taurusgui_config>
