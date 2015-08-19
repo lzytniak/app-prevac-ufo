@@ -1,1 +1,1 @@
-sudo taurusgui --config-dir=taurusGui/
+taurusgui --config-dir=taurusGui/
